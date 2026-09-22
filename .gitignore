@@ -1,0 +1,26 @@
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large datasets (provided by the assessor, shouldn't be pushed to avoid bloating the repo)
+train-test.csv
+validation.csv
+validation-predictions-template.csv
+
+# Assessment instructions (optional to ignore, but keeps repo clean)
+freight-rate-ml-assessment.pdf
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

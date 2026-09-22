@@ -8,11 +8,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Large datasets (provided by the assessor, shouldn't be pushed to avoid bloating the repo)
-train-test.csv
-validation.csv
-validation-predictions-template.csv
-
 # Assessment instructions (optional to ignore, but keeps repo clean)
 freight-rate-ml-assessment.pdf
 
